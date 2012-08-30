@@ -13,3 +13,9 @@ sd_bic.sh
 ---------
 
 Perform [full|uem] BIC speaker diarization
+
+sd_sid.sh
+---------
+
+Perform mono-show SID speaker diarization
+(using output of sd_bic.sh as input)
