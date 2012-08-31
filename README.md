@@ -19,3 +19,9 @@ sd_sid.sh
 
 Perform mono-show SID speaker diarization
 (using output of sd_bic.sh as input)
+
+sd_sid_cross.sh
+---------------
+
+Perform cross-show SID speaker diarization
+(using outputs of sd_bic.sh as inputs)
